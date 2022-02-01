@@ -1,0 +1,7 @@
+body{
+  color:blue;
+  background-image:url("paper.gif");
+  background-color: chartreuse;
+  background-size: 300px 200px;
+  border: 2px;
+}
